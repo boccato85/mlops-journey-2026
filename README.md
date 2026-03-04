@@ -10,7 +10,7 @@ Este repositório é o registro da minha transição de carreira de **CloudOps**
 ## 🗺️ Roadmap de Evolução
 Minha trajetória está dividida em 4 fases estratégicas:
 
-1. **Fundação:** Python Avançado e Certificação KCNA.
+1. **Fundação:** Python Avançado (Bootcamp 100 Days of Python)
 2. **Infraestrutura:** Especialização em Kubernetes (Certificação CKA).
 3. **Ciclo de Vida de ML:** MLOps Zoomcamp (MLflow, DVC, Prefect) e Certificação PCA (Prometheus).
 4. **Especialização:** GitOps com ArgoCD (CAPA), Kubeflow e CKAD.
@@ -19,7 +19,6 @@ Minha trajetória está dividida em 4 fases estratégicas:
 > O detalhamento completo das metas e prazos pode ser encontrado no arquivo [ROADMAP.md](./ROADMAP.md).
 
 ## 📚 Certificações Alvo
-- [ ] **KCNA** (Kubernetes and Cloud Native Associate)
 - [ ] **CKA** (Certified Kubernetes Administrator)
 - [ ] **PCA** (Prometheus Certified Associate)
 - [ ] **CAPA** (ArgoCD Certified Associate)
